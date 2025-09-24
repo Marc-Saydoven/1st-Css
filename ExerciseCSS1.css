@@ -1,0 +1,53 @@
+.Cram {
+    size: 20px;
+    color:  lightsalmon;
+    background-color: blanchedalmond;
+}
+
+.Cram2 {
+    size: 20px;
+    color: lightsalmon;
+    background-color: lightcoral;
+}
+
+.Cram3 {
+    size: 20px;
+    color: lightsalmon;
+    background-color: lightblue;
+}
+
+.Cram4 {
+    size: 20px;
+    color: lightsalmon;
+    background-color: lightcyan;
+}
+
+.Cram5 {
+    size: 20px;
+    color: lightsalmon;
+    background-color: lightgoldenrodyellow;
+}
+
+.borderline {
+    width: 1800px;
+    height: 200px;
+}
+
+.borderline2 {
+    width: 1800px;
+    height: 150px;
+}
+
+.borderline3 {
+    width: 1800px;
+    height: 150px;
+}
+
+.borderline4 {
+    width: 1800px;
+    height: 50px;
+}
+
+.backgroundfull{
+    background-color:#FBFBFB;
+}
